@@ -1,0 +1,6 @@
+E:\oppsumering\SimpleLoginSystem\bin\Debug\SimpleLoginSystem.exe
+E:\oppsumering\SimpleLoginSystem\bin\Debug\SimpleLoginSystem.pdb
+E:\oppsumering\SimpleLoginSystem\obj\Debug\SimpleLoginSystem.csproj.AssemblyReference.cache
+E:\oppsumering\SimpleLoginSystem\obj\Debug\SimpleLoginSystem.csproj.CoreCompileInputs.cache
+E:\oppsumering\SimpleLoginSystem\obj\Debug\SimpleLoginSystem.exe
+E:\oppsumering\SimpleLoginSystem\obj\Debug\SimpleLoginSystem.pdb
